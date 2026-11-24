@@ -1,0 +1,3 @@
+reason,churn_count,share_pct,lost_mrr_total
+voluntary_churn,1227,79.57,38563.0
+involuntary_churn,315,20.43,12875.0

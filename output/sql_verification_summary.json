@@ -1,0 +1,103 @@
+{
+  "total_checks": 12,
+  "passed_checks": 12,
+  "failed_checks": 0,
+  "details": [
+    {
+      "analysis": "01_mrr_monthly",
+      "metric": "Closing MRR (Dec 2025)",
+      "sql_value": "$73,552.00",
+      "pandas_value": "$73,552.00",
+      "match": "Yes",
+      "diff": 0.0
+    },
+    {
+      "analysis": "01_mrr_monthly",
+      "metric": "Active Customers (Dec 2025)",
+      "sql_value": "1,618",
+      "pandas_value": "1,618",
+      "match": "Yes",
+      "diff": 0
+    },
+    {
+      "analysis": "02_mrr_movements",
+      "metric": "Total Net New MRR (36 Mo Sum)",
+      "sql_value": "$73,552.00",
+      "pandas_value": "$73,552.00",
+      "match": "Yes",
+      "diff": 0.0
+    },
+    {
+      "analysis": "02_mrr_movements",
+      "metric": "Total Expansion MRR (36 Mo Sum)",
+      "sql_value": "$13,520.00",
+      "pandas_value": "$13,520.00",
+      "match": "Yes",
+      "diff": 0.0
+    },
+    {
+      "analysis": "03_churn_rate",
+      "metric": "Avg Monthly Logo Churn Rate",
+      "sql_value": "5.76%",
+      "pandas_value": "5.76%",
+      "match": "Yes",
+      "diff": 0.0
+    },
+    {
+      "analysis": "04_cohort_retention",
+      "metric": "2023-01 Cohort M00 Logo Retention",
+      "sql_value": "100.00%",
+      "pandas_value": "100.00%",
+      "match": "Yes",
+      "diff": 0.0
+    },
+    {
+      "analysis": "04_cohort_retention",
+      "metric": "2023-01 Cohort M01 Logo Retention",
+      "sql_value": "90.16%",
+      "pandas_value": "90.16%",
+      "match": "Yes",
+      "diff": 0.0
+    },
+    {
+      "analysis": "04_cohort_retention",
+      "metric": "2023-01 Cohort M06 Logo Retention",
+      "sql_value": "65.57%",
+      "pandas_value": "65.57%",
+      "match": "Yes",
+      "diff": 0.0
+    },
+    {
+      "analysis": "04_cohort_retention",
+      "metric": "2023-01 Cohort M12 Logo Retention",
+      "sql_value": "52.46%",
+      "pandas_value": "52.46%",
+      "match": "Yes",
+      "diff": 0.0
+    },
+    {
+      "analysis": "05_ltv_by_plan",
+      "metric": "Basic Plan LTV Estimate",
+      "sql_value": "$218.71",
+      "pandas_value": "$218.71",
+      "match": "Yes",
+      "diff": 0.0
+    },
+    {
+      "analysis": "05_ltv_by_plan",
+      "metric": "Pro Plan LTV Estimate",
+      "sql_value": "$907.41",
+      "pandas_value": "$907.41",
+      "match": "Yes",
+      "diff": 0.0
+    },
+    {
+      "analysis": "05_ltv_by_plan",
+      "metric": "Business Plan LTV Estimate",
+      "sql_value": "$3,168.00",
+      "pandas_value": "$3,168.00",
+      "match": "Yes",
+      "diff": 0.0
+    }
+  ]
+}

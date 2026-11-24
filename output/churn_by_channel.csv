@@ -1,0 +1,4 @@
+channel,active_sub_months,churned_subscriptions,monthly_churn_rate,sample_size,is_low_sample
+organic,13053,670,0.0513,1403,False
+paid,9231,603,0.0653,1118,False
+referral,6689,269,0.0402,639,False

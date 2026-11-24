@@ -1,0 +1,23 @@
+{
+  "total_customers": 3160,
+  "total_subscriptions": 3618,
+  "total_invoices": 29957,
+  "signup_date_min": "2023-01-02",
+  "signup_date_max": "2025-12-28",
+  "plan_mix_pct": {
+    "Basic": 56.33,
+    "Pro": 29.44,
+    "Business": 14.23
+  },
+  "total_churned_subscriptions": 1542,
+  "churn_reasons_share_pct": {
+    "voluntary_churn": 79.57,
+    "involuntary_churn": 20.43
+  },
+  "upgrades_count": 372,
+  "downgrades_count": 86,
+  "active_subscriptions_at_end": 1618,
+  "total_invoiced_gross_usd": 1269134.6,
+  "total_discounts_usd": 10038.4,
+  "failed_invoices_count": 315
+}

@@ -1,0 +1,13 @@
+analysis,metric,sql_value,pandas_value,match,diff
+01_mrr_monthly,Closing MRR (Dec 2025),"$73,552.00","$73,552.00",Yes,0.0
+01_mrr_monthly,Active Customers (Dec 2025),"1,618","1,618",Yes,0.0
+02_mrr_movements,Total Net New MRR (36 Mo Sum),"$73,552.00","$73,552.00",Yes,0.0
+02_mrr_movements,Total Expansion MRR (36 Mo Sum),"$13,520.00","$13,520.00",Yes,0.0
+03_churn_rate,Avg Monthly Logo Churn Rate,5.76%,5.76%,Yes,0.0
+04_cohort_retention,2023-01 Cohort M00 Logo Retention,100.00%,100.00%,Yes,0.0
+04_cohort_retention,2023-01 Cohort M01 Logo Retention,90.16%,90.16%,Yes,0.0
+04_cohort_retention,2023-01 Cohort M06 Logo Retention,65.57%,65.57%,Yes,0.0
+04_cohort_retention,2023-01 Cohort M12 Logo Retention,52.46%,52.46%,Yes,0.0
+05_ltv_by_plan,Basic Plan LTV Estimate,$218.71,$218.71,Yes,0.0
+05_ltv_by_plan,Pro Plan LTV Estimate,$907.41,$907.41,Yes,0.0
+05_ltv_by_plan,Business Plan LTV Estimate,"$3,168.00","$3,168.00",Yes,0.0

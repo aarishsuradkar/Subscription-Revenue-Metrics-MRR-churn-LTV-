@@ -1,0 +1,7 @@
+Metric,Raw Data Calculation,Metrics Output CSV,Match
+Closing MRR (Dec 2025),"$73,552.00","$73,552.00",PASS
+Active Customers (Dec 2025),"1,618","1,618",PASS
+Total Upgrades Count / Cumulative Expansion,372 upgrades recorded,"$13,520.00 expansion MRR",PASS
+Involuntary Churn Share (%),20.43% (315 events),20.43%,PASS
+Business Plan Churn Rate (%),135 churn events,2.50%,PASS
+Total Invoice Discounts Applied,"$10,038.40","$10,038.40",PASS

@@ -1,0 +1,4 @@
+plan,active_sub_months,churned_subscriptions,monthly_churn_rate,sample_size,is_low_sample
+Basic,14815,1029,0.0695,2024,False
+Pro,8749,378,0.0432,1047,False
+Business,5409,135,0.025,514,False

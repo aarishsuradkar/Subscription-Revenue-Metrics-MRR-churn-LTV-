@@ -1,0 +1,4 @@
+plan,arpa,gross_margin_pct,monthly_churn_rate,ltv_estimate,sample_size,is_low_sample
+Basic,19.0,80.0,0.0695,218.71,2024,False
+Pro,49.0,80.0,0.0432,907.41,1047,False
+Business,99.0,80.0,0.025,3168.0,514,False

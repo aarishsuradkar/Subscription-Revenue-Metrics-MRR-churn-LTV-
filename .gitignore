@@ -14,9 +14,13 @@ __pycache__/
 .env
 .env.local
 
-# IDE
+# IDE & OS temporary files
 .vscode/
 .idea/
+~$*
+.~lock.*
+Thumbs.db
+Desktop.ini
 
 # Streamlit run files
 .streamlit/
